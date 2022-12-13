@@ -1,7 +1,7 @@
 # **Snake**
-A simple Snake app using Python pygame library.
+A simple Snake game app using Python's pygame library.
 
-## Install
+## Installing
 
 ### Requirements
 
